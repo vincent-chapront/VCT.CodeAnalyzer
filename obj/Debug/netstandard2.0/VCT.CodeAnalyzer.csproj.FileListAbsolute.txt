@@ -1,0 +1,5 @@
+C:\Users\kraph\Dev\VCT.CodeAnalyzer\obj\Debug\netstandard2.0\VCT.CodeAnalyzer.csproj.AssemblyReference.cache
+C:\Users\kraph\Dev\VCT.CodeAnalyzer\obj\Debug\netstandard2.0\VCT.CodeAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kraph\Dev\VCT.CodeAnalyzer\obj\Debug\netstandard2.0\VCT.CodeAnalyzer.AssemblyInfoInputs.cache
+C:\Users\kraph\Dev\VCT.CodeAnalyzer\obj\Debug\netstandard2.0\VCT.CodeAnalyzer.AssemblyInfo.cs
+C:\Users\kraph\Dev\VCT.CodeAnalyzer\obj\Debug\netstandard2.0\VCT.CodeAnalyzer.csproj.CoreCompileInputs.cache

@@ -1,0 +1,12 @@
+C:\Users\kraph\Dev\VCT.CodeAnalyzer\bin\Debug\net8.0\VCT.CodeAnalyzer.deps.json
+C:\Users\kraph\Dev\VCT.CodeAnalyzer\bin\Debug\net8.0\VCT.CodeAnalyzer.dll
+C:\Users\kraph\Dev\VCT.CodeAnalyzer\bin\Debug\net8.0\VCT.CodeAnalyzer.pdb
+C:\Users\kraph\Dev\VCT.CodeAnalyzer\obj\Debug\net8.0\VCT.CodeAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kraph\Dev\VCT.CodeAnalyzer\obj\Debug\net8.0\VCT.CodeAnalyzer.AssemblyInfoInputs.cache
+C:\Users\kraph\Dev\VCT.CodeAnalyzer\obj\Debug\net8.0\VCT.CodeAnalyzer.AssemblyInfo.cs
+C:\Users\kraph\Dev\VCT.CodeAnalyzer\obj\Debug\net8.0\VCT.CodeAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\kraph\Dev\VCT.CodeAnalyzer\obj\Debug\net8.0\VCT.CodeAnalyzer.dll
+C:\Users\kraph\Dev\VCT.CodeAnalyzer\obj\Debug\net8.0\refint\VCT.CodeAnalyzer.dll
+C:\Users\kraph\Dev\VCT.CodeAnalyzer\obj\Debug\net8.0\VCT.CodeAnalyzer.pdb
+C:\Users\kraph\Dev\VCT.CodeAnalyzer\obj\Debug\net8.0\ref\VCT.CodeAnalyzer.dll
+C:\Users\kraph\Dev\VCT.CodeAnalyzer\obj\Debug\net8.0\VCT.CodeAnalyzer.csproj.AssemblyReference.cache

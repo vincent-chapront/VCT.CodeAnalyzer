@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = VCT.CodeAnalyzer
+build_property.ProjectDir = c:\Users\kraph\Dev\VCT.CodeAnalyzer\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
